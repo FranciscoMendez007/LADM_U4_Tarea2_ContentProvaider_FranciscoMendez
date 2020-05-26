@@ -1,0 +1,2 @@
+rootProject.name='LADM_U4_Tarea2_ContentProvaider_Parte1'
+include ':app'
